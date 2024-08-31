@@ -27,7 +27,5 @@
 <h3 align="left">Git Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Abdul-Akram&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Akram&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Akram&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Akram&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Akram&theme=dark&hide_border=true)
