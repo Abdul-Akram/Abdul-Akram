@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Akram</h1>
 <h3 align="center">A passionate AI/ML Engineer and Web Developer from India</h3>
+<img align="right" alt="coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhhb2U5dXQ0eHQzbTE4NzlwN3F1em9kaXduMDk1ZTV0Nmd0NDZ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 - 🔭 I’m currently working on **ReactJS,ML**
 
